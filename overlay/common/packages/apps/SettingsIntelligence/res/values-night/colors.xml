@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright (C) 2020 The Proton AOSP Project
+    Copyright (C) 2021 The Evolution X Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -15,5 +15,5 @@
     limitations under the License.
 -->
 <resources>
-    <color name="search_panel_background">@*android:color/notification_material_background_color</color>
+    <color name="search_panel_background">ff303134</color>
 </resources>
